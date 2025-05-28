@@ -10,6 +10,7 @@ Step 3: running 'Step3_stats_extraction.m', taking the HSV/RGB color space store
 
 Step 4 (Classification): running the 'Step4A_mean_distance.m' to compute the normal distance OR running the 'Step4B_mahalanobis.m' to compute the mahalanobis distance between microplastics
 
+
 ***** NOTE ******
 
 Step1 - Step3 shows the extraction of one microplastic with name 'MPs'. When dealing with multiple microplastics classification, the file saving names need to be changed accordingly. Step 4 data loading names are also subject to change.
