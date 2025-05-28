@@ -9,3 +9,5 @@ Step 2: running 'Step2_MP_CSF_Extraction.m', taking .mat generated in Step1, and
 Step 3: running 'Step3_stats_extraction.m', taking the HSV/RGB color space stored in Step 2, and compute the mean and variance of each microplastics
 
 Step 4 (Classification): running the 'Step4A_mean_distance.m' to compute the normal distance OR running the 'Step4B_mahalanobis.m' to compute the mahalanobis distance between microplastics
+
+***** NOTE ******
