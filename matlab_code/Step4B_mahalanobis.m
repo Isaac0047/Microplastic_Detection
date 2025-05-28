@@ -4,7 +4,7 @@ close all
 clc
 
 %% Note to images
-
+% Image Labels: 1(HDPE) 2(LDPE) 3(PP) 4(PS) 5(PET) 6(ABS)
 % 1-5:  No Filter (Nil)
 % 6-10: Green
 % 11-15: Yellow
